@@ -137,11 +137,13 @@ In der Facebook-Gruppe hab ich gerade ein [sehr aufgeregtes Posting gelesen](htt
 
 ![Mag. Johanna Mikl-Leitner](bahn-rettung.assets/Mikl-Leitner.jpg)Mir ist schon nicht mal klar, wie das an die [Frau Mikl-Leitner](http://www.noe.gv.at/noe/Landesregierung/Mag_Johanna_Mikl_Leitner.html) gelangen soll, sprich ob sie das überhaupt liest. 
 
-Ich hoffe dieser Blogbeitrag wird helfen.
-
 Und wenn, wird es ihr vielleicht herzlich wurscht sein. 
 
-Und wenn **G.S.** was schreibt... wer ist das überhaupt?
+Ich hoffe dieser Blogbeitrag wird helfen, das zu ändern.
+
+
+
+Aber wenn ein **G.S.** was schreibt... wer ist das überhaupt?
 
 Ich versuche mal Kontakt aufzunehmen im Forum
 
@@ -184,6 +186,68 @@ Auch hier wird wieder über die Kosten pro Fahrgast argumentiert. Eine einfache 
 > Quelle: [Kurier](https://kurier.at/chronik/niederoesterreich/schweinbarther-kreuz-rettungsplan-durch-privatbahnbetreiber/400656569)
 
 Ich habe bei Frau Mikl-Leitner mal um Details und Zahlenmaterial gebeten. Mal sehen, wie auskunftswillig oder -fähig unsere Repräsentanten so sind.
+
+
+
+> Sehr geehrte Frau Mikl Leitner,
+>
+>  
+>
+> Ich denke angesichts des aktuellen (auch Polit-)Klimas erfordert es keine Erklärung, warum die Bahn dem Autoverkehr vorzuziehen ist.
+>
+>  
+>
+> So wie andere gefährdete Bahnstrecken über die ich auf
+>
+>  https://ge.nuf.is/bahn/bahn-rettung#regionalbahn-im-weinviertler-speckguertel
+>
+> schreibe, 
+>
+> ist mir die R18 ist mir ein Anliegen, und ich fordere Sie auf zu der Intransparenz,
+>
+> die in der Ausarbeitung hier offengelegt wird, 
+>
+> Stellung zu nehmen
+>
+>  
+>
+> https://sway.office.com/uO4UGeBDOc0be4iB?ref=Link
+>
+>  
+>
+> Insbesondere bitte um 
+>
+>  
+>
+> - Entwicklung und Auswertung der     Fahrgastzahlen der letzten 15 Jahre
+> - Aufschlüsselung der 5 Millionen Euro     pro km (Reichhardt (BMVIT), 2019)
+> - Bereitstellung     von Planungsunterlagen, die über die einfach Stückkosten-Rechnungen     (Kosten pro Fahrgast) hinausgehen
+>
+> mit einem für Infrastrukturplanung üblichen Zeithorizont.
+>
+>  
+>
+> Des weiteren fällt unangenehm auf, dass Sie über eine noch nie dagewesenen Investition prahlen, die wohl die Wien-NÖ-ÖBB-Schnellbahnpakete betrifft
+>
+> https://www.noe.gv.at/noe/Schienenfahrplan_2020_bis_2035_der_Ostregion_praesentiert.html
+>
+>  
+>
+> Es gehen aus Ihrer „Topmeldung“ jedenfalls keine Details hervor, nur dass es einen „Fahrplanwechsel“ am 15.12. gibt,
+>
+> der wohl die R18 betreffen dürfte.
+>
+>  
+>
+> Ich erwarte Ihre Stellungnahme bis Dienstag 17.12., 
+>
+> die ich ebenfalls in meinem Blogbeitrag gerne veröffentlichen werde.
+
+
+
+
+
+
 
 #### Weitere Quellen
 
