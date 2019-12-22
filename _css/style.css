@@ -55,6 +55,7 @@ a:hover {
 
 
 
+
 .chapters_list a {
   /* add a transparent border to avoid bouncing  */
   border-bottom: 1px solid #00000000;
@@ -241,16 +242,33 @@ main {
   color: yellow !important;
 }
 
-
-.evo_container.evo_container__item_single .ctabanner a:active,
-.evo_container.evo_container__item_single .ctabanner a:visited {
-  color: yellow !important;
-}
-
 .evo_container.evo_container__item_single a:hover {
   background-color: #f2980e;
   color: #fff !important;
 }
+
+/* image links no orange border, but outline */
+.evo_container__item_single figure a {
+  border: none;
+  color: #ffffffff !important
+}
+
+.evo_container.evo_container__item_single figure a:active,
+.evo_container.evo_container__item_single figure a:visited,
+.evo_container.evo_container__item_single figure a:hover {
+  background-color: #fff;
+  border: none;
+  color: #ffffffff !important
+}
+
+
+
+.evo_container__item_single figure:hover {
+  outline: 2px dotted #f2980e;
+  border: 0px;
+}
+
+
 
 .evo_container.evo_container__item_single a:visited {
   border: 1px dotted #f2980e;
@@ -865,7 +883,7 @@ a.btn-default:hover {
 #lrtlearn {
   background-color: #db4437;
   opacity: 0.9;
-  ^°
+  ^Â°
 }
 
 #lrtlearn:hover,
@@ -1060,9 +1078,34 @@ a.btn-default:hover {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-.evo_container .evo_container__item_single blockquote {
+.evo_container.evo_container__item_single blockquote {
     border-left: 25px solid #f2980e;
     background-color: #f2980e20;
     font-size: 120%;
     font-style: italic;
+}
+
+
+.reference-twitter {
+    /* font-weight: bold; */
+    background-image: url(https://nuf.is/media/shared/global/logos/twitter_logo_blue.svg?mtime=1575559048);
+    background-repeat: no-repeat;
+    background-position-x: 0px;
+    background-position-y: 0px;
+}
+
+
+
+.evo_widget.widget_core_item_next_previous a:hover,
+.evo_widget.widget_core_item_next_previous a:visited,
+.evo_widget.widget_core_item_next_previous a {
+    background-color: #8881;
+    display: inline-block;
+    padding: 5px 14px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+}
+
+.evo_widget.widget_core_item_next_previous a:hover {
+  background-color: #0F9D58;
 }
